@@ -1,5 +1,5 @@
-# 👋 Hello, I'm *Tacitus Dave*
-**FULL-STACK DEVELOPER & SOC ANALYST** building production-ready systems that solve real-world problems.
+## 👋 Hello, I'm *Tacitus Dave*
+## **Full-Stack Developer & SOC Analyst** building production-ready systems that solve real-world problems.
 
 
 ## TECH STACK
