@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm *Tacitus Dave*
-## **Full-Stack Developer & SOC Analyst** building production-ready systems that solve real-world problems.
+**Full-Stack Developer & SOC Analyst** building production-ready systems that solve real-world problems.
 
 
 ## TECH STACK
@@ -30,7 +30,7 @@
 • Incident Response 
 • Log Analysis 
 • Vulnerability Assessment
-
+And more...
 
 ## CURRENT FOCUS
 - Full-Stack Development
