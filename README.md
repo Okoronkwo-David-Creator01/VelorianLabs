@@ -30,7 +30,7 @@
 • Incident Response 
 • Log Analysis 
 • Vulnerability Assessment
-And more...
+• And more...
 
 ## CURRENT FOCUS
 - Full-Stack Development
